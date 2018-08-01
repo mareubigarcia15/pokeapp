@@ -1,9 +1,9 @@
 # pokeapp
 
 # Requisitos
-Django
-Python 3.6 >
-Pip
+- Django
+- Python 3.6 >
+- Pip
 
 # Como correr
 1. Bajar el repositorio
